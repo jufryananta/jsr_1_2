@@ -944,12 +944,38 @@
       "id": 80,
       "nama": "Anti Oksidan",
       "info": "Herbal Anti Oksidan yang simpel",
-      "bahan": ["⅔ buah jeruk","Kurma Ruthob 7 butir","Madu secukupnya"],
+      "bahan": ["⅔ buah Jeruk","Kurma Ruthob 7 butir","Madu secukupnya"],
       "cara": ["Blender semua bahan"],
       "img": "img_antioksidan2",
       "manfaat": ["Anti Oksidan"],
       "sumber": "@nanacuisine_",
       "tag": ["jeruk","kurma_ruthob","madu"]
+    },
+	{
+      "id": 81,
+      "nama": "Melancarkan Pencernaan",
+      "info": "Melancarkan sistem pencernaan",
+      "bahan": ["1 Sendok makan coklat bubuk murni","20 butir Almond","7 butir Kurma buang bijinya","air"],
+      "cara": ["Seduh coklat dgn sedikit air panas,aduk rata, lalu tambahkan air suhu normal 300-400 ml",
+				"Masukkan air seduhan coklat tadi ke dalam blender",
+				"tambahkan kurma dan almond lalu blender hingga halus atau kasar (sesukanya aja maunya halus atau kasar)",
+				"Tuang ke dalam gelas dan siap di minum","Cara minumnya baca basmalah, buka mulut dan minum perlahan"],
+      "img": "img_pencernaan",
+      "manfaat": ["Melancarkan percernaan","Membuang toksin","Sumber gizi tinggi dan lengkap","Mengeyangkan"],
+      "sumber": "@nanacuisine_",
+      "tag": ["bubuk_cacao","almond","kurma","air"]
+    },
+	{
+      "id": 82,
+      "nama": "Pembersih Liver ",
+      "info": "Membantu membersihkan liver",
+      "bahan": ["Asam jawa","7 butir Kurma sukari/sesuai selera sebaiknya jumlah ganjil",
+				"Garam Himalaya","Madu","Air"],
+      "cara": ["blender semua bahan sampai halus dan tercampur rata lalu saring","Tuang ke dalam gelas dan siap di minum"],
+      "img": "img_liver",
+      "manfaat": ["Membantu membersihkan liver"],
+      "sumber": "@nanacuisine_",
+      "tag": ["asam_jawa","kurma","garam_himalaya","madu","air"]
     }
   ]
 }

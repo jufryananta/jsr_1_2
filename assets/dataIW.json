@@ -1,0 +1,171 @@
+{
+  "resep": [
+	{
+      "id": 1,
+      "nama": "Detox Reproduksi",
+      "info": "Mengurangi racun (zat jahat) pada reproduksi",
+      "bahan": ["2 batang Kayu Manis","1 ruas Jahe","600 ml Air"],
+      "cara": ["Rendam semua bahan","Diamkan min 6 jam","Ini infused water untuk Detox Reproduksi."],
+      "img": "img_iw_detox_repro",
+      "manfaat": ["Meringankan nyeri haid","Mendetox bagian reproduksi","Mendetox perut","Tubuh lebih bertenaga"],
+      "sumber": "@nanacuisine_",
+      "tag": ["kayumanis","jahe","air"]
+    },
+	 {
+      "id": 2,
+      "nama": "Prostat Vitalis Dan Promil Suami",
+      "info": "Infused water semangka untuk vitalitas suami",
+      "bahan": ["Semangka yang ada bijinya","Air secukupnya"],
+      "cara": ["Rendam semangka di dalam air 600 ml, selama 2 jam", "atau jus Semangka (daging, kulit putihnya dan biji)"],
+      "img": "img_iw_prostat_vitalis",
+      "manfaat": ["Meningkatkan vitalitas pria"],
+      "sumber": "@nanacuisine_",
+      "tag": ["semangka","air"]
+    },
+	{
+      "id": 3,
+      "nama": "Gerd",
+      "info": "Membantu mengobati GERD",
+      "bahan": ["Kurma","1 ruas Jahe (iris/geprek)","300 ml air"],
+      "cara": ["Jahe dan Kurma yang di belah masukin ke dalam botol yang berisi air bersama bijinya",
+				       "Rendam min 6 jam "],
+      "img": "img_iw_gerd",
+      "manfaat": ["Membantu mengobati GERD"],
+	    "sumber": "@nanacuisine_",
+      "tag": ["kurma","jahe","air"]
+    },
+    {
+      "id": 3,
+      "nama": "Gerd",
+      "info": "Membantu mengobati GERD",
+      "bahan": ["Kurma","1 ruas Jahe (iris/geprek)","300 ml air"],
+      "cara": ["Jahe dan Kurma yang di belah masukin ke dalam botol yang berisi air bersama bijinya",
+				"Rendam min 6 jam "],
+      "img": "img_iw_gerd",
+      "manfaat": ["Membantu mengobati GERD"],
+	  "sumber": "@zaidulakbar",
+      "tag": ["kurma","jahe","air"]
+    },
+  	{
+      "id": 4,
+      "nama": "Air Titrasi",
+      "info": "Mereset hormon",
+      "bahan": ["1 liter air","3 sdt Habbatussauda serbuk / cair"],
+      "cara": ["Campurkan kedua bahan di atas","1 liter air titrasi harus di habiskan dalam 3 hari. Takaran 1 x minum sebanyak 350 ml"],
+      "img": "img_iw_titrasi",
+      "manfaat": ["Mereset Hormon, penderita nyeri haid dan hormon","Konsumsi saat mulai mens","Satu hari kita minum air putih 2,5 Liter",
+				"Hari Pertama : 1 liter air + 3 sdt habatasauda untuk 3 hari berturut turut (1-3 hari)",
+				"Hari kedua : 1 liter air + 4 sdt habatasauda untuk hari ke 4,5,6 (3 hari berturut-turut)",
+				"Hari ke tiga : 1 liter air + 5 sdt habatasauda untuk hari ke 7,8,9",
+				"Hari ke empat : 1 liter air + 6 sdt habatasauda untuk hari ke 10,11,12",
+				"Hari ke lima : 1 liter air + 7 sdt habatasauda untuk hari ke 13,14,15",
+				"Setelah  16  hari  berlalu,  kembali  ke  siklus  hari  pertama  untuk  mendapatkan  hasil  yang maksimal"],
+	  "sumber": "@zaidulakbar",
+      "tag": ["air","habatasauda"]
+    },
+	  {
+      "id": 5,
+      "nama": "Stamina",
+      "info": "Menjaga dan meningkatkan stamina",
+      "bahan": ["Air mineral 500-700 ml","Madu 1-2 sdm","Seujung jari garam pink himalaya"],
+      "cara": ["Campurkan semua bahan dalam botol kemudian goncangkan botolnya agar lebih mudah terserap"],
+      "img": "img_iw_stamina",
+      "manfaat": ["Minuman stamina","Minuman Asam amino","Minuman Enzim","Untuk masalah pencernaan","Minum saat perut kosong dan menjelang tidur"],
+	  "sumber": "@zaidulakbar",
+      "tag": ["air","madu","garam_himalaya"]
+    },
+  	{
+      "id": 6,
+      "nama": "Penyerap Toksin (Toxin)",
+      "info": "Menyerap racun tubuh",
+      "bahan": ["2 sdm Chia seed","2 sdm Madu","300-500 ml","Jeruk nipis/Lemon"],
+      "cara": ["Seduh chiaseed dengan air panas (1/4 gelas)","Tunggu sampai chiaseed menggembang",
+				"Tambahkan air suhu biasa hingga jar penuh","Peras jeruk nipis/lemon","Kemudian tambahkan madu"],
+      "img": "img_iw_toksin",
+      "manfaat": ["Menyerap racun tubuh"],
+	  "sumber": "@zaidulakbar",
+      "tag": ["biji_chia","madu","jeruk_nipis_peras"]
+    },
+	  {
+      "id": 7,
+      "nama": "Imunitas",
+      "info": "Meningkatkan Imunitas",
+      "bahan": ["1-2 sdm madu","1 kapsul habatasauda serbuk","1/2 sdt beepolen"],
+      "cara": ["Ambil botol air 300/600 ml","Lalu goncangkan semuanya"],
+      "img": "img_iw_imun",
+      "manfaat": ["Full asam amino, antioksidan, full enzim, full mineral, yang jelas meningkatkan imunitas"],
+	  "sumber": "@zaidulakbar",
+      "tag": ["madu","habbatussauda_kapsul","beepolen"]
+    },
+	  {
+      "id": 8,
+      "nama": "Anti Inflamasi",
+      "info": "Anti Radikal Bebas",
+      "bahan": ["Chia seeds 1 sdm","Madu secukupnya"],
+      "cara": ["Rendam sebentar dalam air panas kurang lebih 250 ml, tunggu hangat, baru kasih madu"],
+      "img": "img_iw_inflamasi",
+      "manfaat": ["Anti Radikal Bebas"],
+	  "sumber": "@zaidulakbar",
+      "tag": ["biji_chia","madu"]
+    },
+	  {
+      "id": 9,
+      "nama": "Imunitas II",
+      "info": "Segudang manfaat",
+      "bahan": ["1 ruas jahe (iris /geprek)","5 buah kurma","300 ml air"],
+      "cara": ["5 buah kurma di belah masukan ke dalam botol air beserta bijinya","Tambahkan irisan jahe, Rendam 6 jam"],
+      "img": "img_iw_kurma",
+      "manfaat": ["Untuk daya tahan tubuh","Meredakan flu","Baik untuk pencernaan","Detoksifikasi","Menurunkan kadar kolesterol jahat"],
+	  "sumber": "@zaidulakbar",
+      "tag": ["jahe","kurma","air"]
+    },
+	  {
+      "id": 10,
+      "nama": "Menguatkan  Liver",
+      "info": "Ramuan minuman dari nanas",
+      "bahan": ["Beberapa potong atau 1/3 bagian dasar Nanas","Air 600ml"],
+      "cara": ["Gabungkan bahan dan diamkan sekitar 6 jam","Konsumsi ketika perut kosong"],
+      "img": "img_iw_nanas",
+      "manfaat": ["Mampu menyembuhkan penyakit kanker, penyembuhan radang,  pembuangan  racun",
+				"Membunuh  parasit  dalam  usus  dan  liver",
+				"menguatkan  liver, membantu pencernaan, membersihkan darah",
+				"menyeimbangkan elektrolit tubuh, memyehatkan mata, menguatkan gusi",
+				"menggempur penyumbatan jantung, memerangi obesitas serta membantu masalah konstipasi/sembelit."],
+	  "sumber": "@zaidulakbar",
+      "tag": ["nanas","air"]
+    },
+	  {
+      "id": 11,
+      "nama": "Anti Aging",
+      "info": "Infused Water",
+      "bahan": ["1/2 sdt kunyit bubuk","1/2 atau 1 jeniper","Seujung sdt lada hitam","300 ml air","Madu secukupnya"],
+      "cara": ["Campur semua bahan"],
+      "img": "img_iw_kunyit",
+      "manfaat": ["Anti aging","Kaya enzim","Kaya vitamin","Anti radang","Penguat pencernaan","Penghilang nyeri"],
+	  "sumber": "@zaidulakbar",
+      "tag": ["kunyit_bubuk","jeruk_nipis_peras","lada_hitam","air","madu"]
+    },
+	  {
+      "id": 12,
+      "nama": "Pelumas Sendi",
+      "info": "Melancarkan persendian",
+      "bahan": ["½ buah jeruk nipis/jeruk lemon","Seujung sendok himsalt"],
+      "cara": ["Masukan ke dalam botol semua bahan","Diamkan 6 jam "],
+      "img": "img_iw_pelumas",
+      "manfaat": ["Memberikan pelumasan pada sendi-sendi"],
+	  "sumber": "@zaidulakbar",
+      "tag": ["jeruk_nipis","garam_himalaya"]
+    },
+	  {
+      "id": 13,
+      "nama": "Detox Water",
+      "info": "Membasakan tubuh",
+      "bahan": ["1 buah timun (potong-potong)","1 buah lemon (potong-potong)","Jeruk nipis kecil (potong-potong)","5 lembar daun mint"],
+      "cara": ["Masukkan bahan dalam botol","Tambahkan air secukupnya","Taruh dalam kulkas min 3 jam, bagusnya 10 jam"],
+      "img": "img_iw_detox",
+      "manfaat": ["Membasakan tubuh", "untuk SEKALI minum, tidak usah di refiil"],
+	  "sumber": "@zaidulakbar",
+      "tag": ["timun","lemon","jeruk_nipis"]
+    }
+  ]
+}

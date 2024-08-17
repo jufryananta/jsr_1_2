@@ -33,12 +33,17 @@ class DrawerExample extends StatefulWidget {
 class _DrawerExampleState extends State<DrawerExample> {
   String selectedPage = '';
   var _data;
+  var _dataiw;
 
   Future<void> loadData() async {
     final String response = await rootBundle.loadString('assets/dataRH.json');
+    final String response_iw =
+        await rootBundle.loadString('assets/dataIW.json');
     final data = await json.decode(response);
+    final data_iw = await json.decode(response_iw);
     setState(() {
       _data = data;
+      _dataiw = data_iw;
       //print(_data["resep"]);
     });
   }
@@ -101,13 +106,22 @@ class _DrawerExampleState extends State<DrawerExample> {
                     context,
                     MaterialPageRoute(
                         builder: (context) => AirInfus(
-                              data: _data["resep"],
+                              data: _dataiw["resep"],
                             )));
               },
             ),
             ListTile(
               leading: const Icon(Icons.sticky_note_2),
               title: const Text('Doa Rukyah'),
+              onTap: () {
+                setState(() {
+                  selectedPage = 'Settings';
+                });
+              },
+            ),
+            ListTile(
+              leading: const Icon(Icons.healing),
+              title: const Text('Terapi'),
               onTap: () {
                 setState(() {
                   selectedPage = 'Settings';

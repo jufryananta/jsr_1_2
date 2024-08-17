@@ -75,7 +75,7 @@ class _DrawerExampleState extends State<IsiHalaman> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Ramuan Herbal"),
+        title: const Text("Infused Water"),
         actions: [
           IconButton(
               icon: const Icon(Icons.search),
@@ -150,7 +150,7 @@ class _DrawerExampleState extends State<IsiHalaman> {
                                 fontWeight: FontWeight.bold, fontSize: 16),
                           ),
                           subtitle: Text(
-                            "oleh: " + _dataCari[index]["oleh"],
+                            "oleh: " + _dataCari[index]["sumber"],
                             style: const TextStyle(
                                 color: Colors.grey,
                                 fontStyle: FontStyle.italic,
