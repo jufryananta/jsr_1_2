@@ -64,9 +64,9 @@ class TerapiDetail extends StatelessWidget {
                                 fontWeight: FontWeight.bold, fontSize: 22),
                           )),
                       ListView.builder(
-                        physics: const AlwaysScrollableScrollPhysics(),
                         padding: const EdgeInsets.fromLTRB(5, 0, 5, 0),
                         shrinkWrap: true,
+                        primary: false,
                         itemCount: data['cara'].length,
                         itemBuilder: (context, index) {
                           return Padding(
