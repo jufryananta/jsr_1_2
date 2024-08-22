@@ -6,6 +6,7 @@ import 'package:jsr/air_infus.dart';
 import 'package:jsr/ramuan_herbal.dart';
 import 'package:jsr/pengantar.dart';
 import 'package:jsr/tentang.dart';
+import 'package:jsr/terapi.dart';
 
 /// Flutter code sample for [Drawer].
 
@@ -34,16 +35,19 @@ class _DrawerExampleState extends State<DrawerExample> {
   String selectedPage = '';
   var _data;
   var _dataiw;
+  var _datatr;
 
   Future<void> loadData() async {
     final String response = await rootBundle.loadString('assets/dataRH.json');
-    final String response_iw =
-        await rootBundle.loadString('assets/dataIW.json');
+    final String responseIW = await rootBundle.loadString('assets/dataIW.json');
+    final String responseTR = await rootBundle.loadString('assets/dataTR.json');
     final data = await json.decode(response);
-    final data_iw = await json.decode(response_iw);
+    final dataIW = await json.decode(responseIW);
+    final dataTR = await json.decode(responseTR);
     setState(() {
       _data = data;
-      _dataiw = data_iw;
+      _dataiw = dataIW;
+      _datatr = dataTR;
       //print(_data["resep"]);
     });
   }
@@ -123,9 +127,13 @@ class _DrawerExampleState extends State<DrawerExample> {
               leading: const Icon(Icons.healing),
               title: const Text('Terapi'),
               onTap: () {
-                setState(() {
-                  selectedPage = 'Settings';
-                });
+                Navigator.pop(context);
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => Terapi(
+                              data: _datatr["resep"],
+                            )));
               },
             ),
             const Divider(),

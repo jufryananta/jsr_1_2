@@ -1,0 +1,110 @@
+{
+  "resep": [
+	{
+      "id": 1,
+      "nama": "7 Day Challenger JSR",
+      "info": "<p style='font-size:16px;'><strong>7 Days Challenge JSR</strong> adalah program pola makan sehat yang dilakukan selama seminggu atau 7 hari yakni dengan mengurangi bahkan menghentikan konsumsi makanan mengandung glukosa atau lemak tinggi.</p><p style='font-size:16px;'><span style='color: #ff0000;'><strong>INGAT!</strong></span> Resep ini bukanlah bertujuan untuk diet mati-matian selama 7 hari. Melainkan untuk mengatur dan membiasakan pola makan yang sehat.</p>",
+      "cara": ["Konsumsi air mineral 2 liter sehari",
+				"Makan sayur (minimal 3 jenis dengan 2 warna /lebih) misal hijau, oranye, merah, prefer organik  (kukus,  rebus,  sayur  bening)  porsi  makan  sayurnya  adalah  sebanyak  handled mason jar (gelas tangkai jus)",
+				"Jus buah plus sayur 1 x sehari","Hindari gula pasir","Hindari Tepung","Hindari minyak",
+				"Hindari protein hewani (ganti protein nabati selama 7 hari)","Nasi putih ganti nasi merah",
+				"Konsumsi bijian seperti walnut, almond dan lain lain"],
+      "img": "img_tr_7day",
+	    "sumber": "@zaidulakbar",
+      "tag": [""]
+    },
+	  {
+      "id": 2,
+      "nama": "Menaikan Berat Badan",
+      "info": "",
+      "cara": ["Perbanyak konsumsi karbohidrat sehat dan protein","Perbanyak konsumsi rempah2 dan insfusedwater",
+				"Makan dan Nyemil sehat sesering mungkin (porsi dikit tapi sering)","Olahraga untuk meningkatkan massa otot",
+				"Hindari minum air sebelum makan (bikin kenyang)","Minum resep detox usus,",
+				"Pembersih muskus saluran cerna sesekali untuk membersihkan usus dari plak-plak jahat yang menghambat penyerapan makanan"],
+      "img": "img_tr_naikBB",
+	  "sumber": "@zaidulakbar",
+      "tag": [""]
+    },
+	  {
+      "id": 3,
+      "nama": "Menurunkan Berat Badan",
+      "info": "<p style='font-size:16px;'><span style='text-decoration: underline;'><strong>Contoh:</strong></span><br />Pagi : sarapan buah dgn di jus/kunyah<br />Siang : nasi merah, ubi, labu, nasi hitam, nasi pecah kulit dengan sayur rebus, kukus, mentah<br />Malam: buah porsi keci, sayur rebus, kukus, mentah</p>",
+      "cara": ["Ikuti pola Jurus sehat Rasullullah","Rajin puasa sunah senin-kamis atau puasa Daud",
+				"ikuti '7 Day Challenger JSR'","Hindari minyak","Hindari protein hewani","Hindari Tepung-tepungan",
+				"Hindari susu sapi& turunannya","Hindari MSG","Hindari gula pasir","Hindari garam meja ganti dengan garam Himalaya"],
+      "img": "img_tr_turunBB",
+	  "sumber": "@zaidulakbar",
+      "tag": [""]
+    },
+	  {
+      "id": 4,
+      "nama": "Asam Urat",
+      "info": "",
+      "cara": ["Konsumsi Kunyit dan blackpaper (bisa diseduh /infusedwater)","Perbanyak minum air putih, agar ginjalnya tidak terlalu asam",
+				"Hindari 5 hal (nasi putih, gluten, minyak, gula pasir dan dairy product)","Hindari makanan fast food /junk food"],
+      "img": "img_tr_asamurat",
+	  "sumber": "@zaidulakbar",
+      "tag": [""]
+    },
+	  {
+      "id": 5,
+      "nama": "Wasir",
+      "info": "",
+      "cara": ["Hindari konsumsi nasi putih","Hindari gluten, minyak, gula pasir dan dairy product",
+				"Hindari konsumsi fast food / junk food","Perbanyak buah dan sayur",
+				"Membuat nabeez (air rendaman kurma)","Minum rebusan daun cowek gopel (pegagan)"],
+      "img": "img_tr_wasir",
+	  "sumber": "@zaidulakbar",
+      "tag": [""]
+    },
+	  {
+      "id": 6,
+      "nama": "Stroke",
+      "info": "",
+      "cara": ["Konsumsi madu setiap hari, oleskan madu di bawah lidah (3X sehari)",
+				"Konsumsi air kelapa dan cilantro (daun ketumbar)","Rutinkan bekam dan Refleksi",
+				"Makan cokelat bubuk dicampur kurma","Makan alpukat yang diblender dengan kurma"],
+      "img": "img_tr_stroke",
+	  "sumber": "@zaidulakbar",
+      "tag": [""]
+    },
+	  {
+      "id": 7,
+      "nama": "Berhenti Merokok",
+      "info": "<p style='font-size:16px;'>Jika di rutinkan, insyaAllah reseptor akan terisi nutrisi yang benar</p>",
+      "cara": ["Perbanyak makan buah dan sayur","Rutinkan minum infusedwater (buah, rimpang, sayur dll)"],
+      "img": "img_tr_merokok",
+	  "sumber": "@zaidulakbar",
+      "tag": [""]
+    },
+	  {
+      "id": 8,
+      "nama": "Darah Rendah",
+      "info": "",
+      "cara": ["Konsumsi jus kurma","Konsumsi madu","Konsumsi sayuran hijau pekat",
+				"Konsumsi buah yang mengandung vitamin c","Perbanyak berjemur di pagi hari","Makan garam pink himalaya"],
+      "img": "img_tr_darahrendah",
+	  "sumber": "@zaidulakbar",
+      "tag": [""]
+    },
+	  {
+      "id": 9,
+      "nama": "Menaikkan HB",
+      "info": "",
+      "cara": ["Konsumsi jus buah naga dan buah bit","Makan kurma (ganjil)","Minum infusedwater kurma dan kayumanis 3 cm (optional)"],
+      "img": "img_tr_naikhb",
+	  "sumber": "@zaidulakbar",
+      "tag": [""]
+    },
+	  {
+      "id": 10,
+      "nama": "Trigliserida",
+      "info": "",
+      "cara": ["Puasa","Hindari makanan berminyak dan gula pasir",
+				"Rutinkan setiap hari minum air jeruk nipis dan madu","3 sdm vco setiap hari"],
+      "img": "img_tr_trigli",
+	  "sumber": "@zaidulakbar",
+      "tag": [""]
+    }
+	]
+}
